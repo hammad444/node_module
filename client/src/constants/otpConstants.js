@@ -1,0 +1,7 @@
+  export const OTP_CODE_FAIL='OTP_CODE_FAIL'
+  export const OTP_CODE_REQUEST='OTP_CODE_REQUEST'
+  export const OTP_CODE_SUCCESS='OTP_CODE_SUCCESS'
+
+  export const EMAIL_FAIL='EMAIL_FAIL'
+  export const EMAIL_REQUEST='EMAIL_REQUEST'
+  export const EMAIL_SUCCESS='EMAIL_SUCCESS'

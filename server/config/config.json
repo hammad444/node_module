@@ -1,0 +1,10 @@
+
+{
+    "database": {
+        "host": "localhost",
+        "user": "root",
+        "password": "12345678",
+        "database": "waqalat_database"
+    },
+    "secret": "6Wn89iPaAUmQb9ktTVkk9Q"
+}
